@@ -1,9 +1,7 @@
 # Car-Dataset-Analysis
 
 <div align = "center" >
-  
-  # UK Car Sales Analysis
-  
+    
 </div>
 <div align = "center" >
 <img src="https://www.gifcen.com/wp-content/uploads/2021/05/car-gif-19.gif" width="300" height = "100" />
