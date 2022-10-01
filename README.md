@@ -9,5 +9,7 @@ Categorized the cars based on their price
 Tech Stack:
 
 Microsoft SQL Server 
+
 Excel 
+
 PowerPoint
