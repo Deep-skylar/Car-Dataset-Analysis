@@ -4,7 +4,7 @@
     
 </div>
 <div align = "center" >
-<img src="https://www.gifcen.com/wp-content/uploads/2021/05/car-gif-19.gif" width="300" height = "100" />
+<img src="https://giffiles.alphacoders.com/990/99018.gif" width="500" height = "100" />
 
 </div>
 
